@@ -2,5 +2,5 @@
 - I commonly use MySQL database for storing data from my software
 - I am into Blockchain development at the moment
 - For java programming I normally work on Eclipse IDE
-- For python programming language i work on PYCHARM IDE and Spyder
+- For python programming language I work on PYCHARM IDE and Spyder
 - Let us connect and grow together
